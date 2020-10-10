@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SpotifyRooms</string>
+    <string name="data_info">
+        By clicking "Log in" you agree to the terms of usage.
+        You will have to connect the app to Spotify twice.
+        For receiving data and for being able to control your spotify app.
+        There will be neither user- nor song-data stored longer than the session of your current room.
+        For more info view our terms of usage.
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Songs</string>
+    <string name="tab_text_2">Playlists</string>
+    <string name="tab_text_3">Albums</string>
+    <string name="tab_text_4">Artists</string>
+    <string name="tab_text_5">Profiles</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="default_image">default_image</string>
+    <string name="view">View</string>
+    <string name="view_album">View Album</string>
+    <string name="view_artist">View Artist</string>
+    <string name="queue_all">Queue All</string>
+    <string name="queue">Queue</string>
+    <string name="queue_front">Queue Front</string>
+    <string name="title_activity_room">Room</string>
+    <string name="title_history">History</string>
+    <string name="title_room">Room</string>
+    <string name="title_queue">Queue</string>
+</resources>

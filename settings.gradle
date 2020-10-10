@@ -1,0 +1,4 @@
+include ':SpotifyController'
+include ':SpotifyAuthentication'
+include ':app'
+rootProject.name = "SpotifyRooms"
